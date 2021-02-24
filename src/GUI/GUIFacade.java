@@ -1,14 +1,24 @@
 package GUI;
 
-import Acquantance.IGUIFacade;
-import Acquantance.ILogicFacade;
+import Acquaintance.IGUIFacade;
+import Acquaintance.ILogicFacade;
 
-public class GUIFacade implements IGUIFacade {
+public class GUIFacade implements IGUIFacade, IOutFacade {
+
+    private static GUIFacade instance;
 
     private ILogicFacade logic;
 
-    public GUIFacade() {
+    private GUIFacade() {
         System.out.println("Creating GUI facade");
+    }
+
+    public static IOutFacade getInstance(){
+        if (instance == null){
+            instance = new GUIFacade();
+        }
+
+        return instance;
     }
 
     @Override
@@ -20,4 +30,15 @@ public class GUIFacade implements IGUIFacade {
     public void injectLogic(ILogicFacade logic) {
         this.logic = logic;
     }
+
+    @Override
+    public String getAnalysis() {
+        return this.logic.analyzeForFun();
+    }
+
+    @Override
+    public void activateAnalyzer(){
+
+    }
+
 }

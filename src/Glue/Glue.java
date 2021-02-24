@@ -1,11 +1,12 @@
 package Glue;
 
-import Acquantance.IGUIFacade;
-import Acquantance.ILogicFacade;
-import Acquantance.IModelFacade;
+import Acquaintance.IGUIFacade;
+import Acquaintance.ILogicFacade;
+import Acquaintance.IModelFacade;
 import GUI.GUIFacade;
 import Logic.LogicFacade;
 import Model.ModelFacade;
+
 
 public class Glue {
 
@@ -18,21 +19,23 @@ public class Glue {
         ILogicFacade logic = new LogicFacade();
 
         // Create GUI facade.
-        IGUIFacade GUI = new GUIFacade();
+        IGUIFacade gui = (IGUIFacade) GUIFacade.getInstance();
 
         // Inject logic into GUI.
-        GUI.injectLogic(logic);
+        gui.injectLogic(logic);
 
         // Inject data into logic.
         logic.injectModel(model);
 
-        initialize(GUI, logic, model);
+        initialize(gui, logic, model);
 
         // Start application
-        GUI.startApplication(args);
+        gui.startApplication(args);
     }
 
-    private static void initialize(IGUIFacade GUI, ILogicFacade logic, IModelFacade model){
+    private static void initialize(IGUIFacade gui, ILogicFacade logic, IModelFacade model){
         System.out.println("Initializing Program");
+
     }
+
 }

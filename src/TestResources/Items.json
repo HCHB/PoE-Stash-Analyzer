@@ -1,0 +1,4066 @@
+{
+  "numTabs": 12,
+  "items": [
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Heist\/ContractItem2.png?v=0dd94cce7fcbe7d2225026b5c00c402f&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "6da48e7dd18c4ac6068b031a15da57843c121647c5a4f093cba7c3129888abc6",
+      "name": "Rage Pledge",
+      "typeLine": "Contract: Smuggler's Den",
+      "identified": true,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "Client",
+          "values": [
+            [
+              "Grond Ironeye",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Heist Target: {0} ({1})",
+          "values": [
+            [
+              "Golden Hetzapal Idol",
+              0
+            ],
+            [
+              "High Value",
+              0
+            ]
+          ],
+          "displayMode": 3,
+          "type": 47
+        },
+        {
+          "name": "Area Level",
+          "values": [
+            [
+              "79",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 34
+        },
+        {
+          "name": "Requires {1} (Level {0})",
+          "values": [
+            [
+              "3",
+              0
+            ],
+            [
+              "Brute Force",
+              0
+            ]
+          ],
+          "displayMode": 3,
+          "type": 39
+        },
+        {
+          "name": "Item Quantity",
+          "values": [
+            [
+              "+58%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 2
+        },
+        {
+          "name": "Item Rarity",
+          "values": [
+            [
+              "+33%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 3
+        },
+        {
+          "name": "Alert Level Reduction",
+          "values": [
+            [
+              "+22%",
+              1
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Time Before Lockdown",
+          "values": [
+            [
+              "+22%",
+              1
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Maximum Alive Reinforcements",
+          "values": [
+            [
+              "+22%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 4
+        }
+      ],
+      "explicitMods": [
+        "Players have Elemental Equilibrium",
+        "Guards deal 28% increased Damage",
+        "Reward Room Monsters take 28% reduced Damage",
+        "Reinforcements have 38% increased Attack Speed",
+        "Reinforcements have 38% increased Cast Speed",
+        "Reinforcements have 27% increased Movement Speed"
+      ],
+      "descrText": "Give this Contract to Adiyah in the Rogue Harbour to embark on the Heist.",
+      "flavourText": [
+        "\"I found the tomb in the first place, and they had the nerve to empty it without me! \r",
+        "Reckon it'll make a fine trophy for my efforts.\""
+      ],
+      "frameType": 2,
+      "x": 1,
+      "y": 10,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet4.png?v=cc3ec167ca9ea10dfa05b2d55b5dcf62&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "a96b99a17d578e534bbb332140c021657dc21cc15984c4587738b974f7154654",
+      "name": "Torment Heart",
+      "typeLine": "Jade Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "57",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+25 to Dexterity"
+      ],
+      "explicitMods": [
+        "+35 to Dexterity",
+        "Adds 10 to 17 Physical Damage to Attacks",
+        "38% increased Global Critical Strike Chance",
+        "7% increased Evasion Rating",
+        "+5 Mana gained on Kill"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 8,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Gems\/VaalGems\/VaalFireResistAura.png?v=e3ca59be86d66dfd1ec9f7eaf7e3ca8f&w=1&h=1&scale=1",
+      "support": false,
+      "league": "Ritual",
+      "id": "c5675a7a86e7073b779ec02f276c8735d472c79dd046426b29a44a17ee47fa2b",
+      "name": "",
+      "typeLine": "Vaal Impurity of Fire",
+      "identified": true,
+      "ilvl": 0,
+      "corrupted": true,
+      "properties": [
+        {
+          "name": "Aura, Vaal, Spell, AoE, Duration, Fire",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Level",
+          "values": [
+            [
+              "1",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 5
+        },
+        {
+          "name": "Mana Reserved",
+          "values": [
+            [
+              "35%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Cooldown Time",
+          "values": [
+            [
+              "1.20 sec",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Cast Time",
+          "values": [
+            [
+              "Instant",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "24",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "37",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "additionalProperties": [
+        {
+          "name": "Experience",
+          "values": [
+            [
+              "1\/118383",
+              0
+            ]
+          ],
+          "displayMode": 2,
+          "progress": 0,
+          "type": 20
+        }
+      ],
+      "secDescrText": "Casts an aura that grants fire resistance to you and your allies.",
+      "explicitMods": [
+        "You and nearby allies gain 22% additional Fire Resistance"
+      ],
+      "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+      "frameType": 4,
+      "x": 11,
+      "y": 11,
+      "inventoryId": "Stash1",
+      "hybrid": {
+        "isVaalGem": true,
+        "baseTypeName": "Purity of Fire",
+        "properties": [
+          {
+            "name": "Cooldown Time",
+            "values": [
+              [
+                "0.50 sec",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Souls Per Use",
+            "values": [
+              [
+                "50",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Can Store {0} Use",
+            "values": [
+              [
+                "1",
+                0
+              ]
+            ],
+            "displayMode": 3
+          },
+          {
+            "name": "Soul Gain Prevention",
+            "values": [
+              [
+                "8 sec",
+                0
+              ]
+            ],
+            "displayMode": 0
+          },
+          {
+            "name": "Cast Time",
+            "values": [
+              [
+                "Instant",
+                0
+              ]
+            ],
+            "displayMode": 0
+          }
+        ],
+        "explicitMods": [
+          "Base duration is 3.00 seconds",
+          "Modifiers to Skill Effect Duration also apply to this Skill's Soul Gain Prevention",
+          "+14 to radius",
+          "You and nearby allies gain 5% additional maximum Fire Resistance",
+          "You and nearby allies are Immune to Ignite",
+          "Nearby Enemies' Fire Resistance is Ignored by Hits"
+        ],
+        "secDescrText": "Casts an aura that reduces fire damage taken and provides ignite immunity to you and nearby allies, and makes hits against nearby enemies ignore their fire resistance. "
+      }
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/CitrineAmulet.png?v=392b4ef08d8b72daaf1d0ec50d017398&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "e2742ce02200ba5b0ad7e667ddb55bcb6f4d707afdb286d053f6d41cccf9b72b",
+      "name": "Chimeric Beads",
+      "typeLine": "Citrine Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+16 to Strength and Dexterity"
+      ],
+      "explicitMods": [
+        "+18 to Intelligence",
+        "21% increased Fire Damage",
+        "11% increased Cast Speed",
+        "+38 to maximum Life",
+        "12% increased Rarity of Items found"
+      ],
+      "frameType": 2,
+      "x": 10,
+      "y": 6,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet2.png?v=1bb23cebd36e20ede7c0e76575215b14&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "4ed0dfc3bc585c8b44ad4146675be3664f31847ad0a91b6c9f35d011dcdfcda6",
+      "name": "Mind Gorget",
+      "typeLine": "Coral Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Regenerate 3.2 Life per second"
+      ],
+      "explicitMods": [
+        "+39 to Strength",
+        "Adds 6 to 11 Physical Damage to Attacks",
+        "12% increased Fire Damage",
+        "4% increased maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 7,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Boots\/BootsInt4.png?v=4808dffa0aa9745b57119af9319d0be3&w=2&h=2&scale=1",
+      "league": "Ritual",
+      "id": "8a2a0a4d601602736e36ab2db42058fb596bb0bb8f325b2cb09d61d523c0fe92",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Conjurer Boots",
+      "identified": false,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "34",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Intelligence",
+          "values": [
+            [
+              "94",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 1,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/AgateAmulet.png?v=616cdaa894e5fcb0684cbeab3f90c4bc&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "6508c29458e07f8e1ef8131aba833eb05ad253a677e846f41125d205b1d52a1b",
+      "name": "Kraken Charm",
+      "typeLine": "Agate Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+17 to Strength and Intelligence"
+      ],
+      "explicitMods": [
+        "+15 to Strength",
+        "+13 to maximum Energy Shield",
+        "+73 to maximum Mana",
+        "+13% to Lightning Resistance",
+        "14% increased Elemental Damage with Attack Skills"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 8,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet1.png?v=c2401398cda6eebb43b7f7da63caa331&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "46210ff1b8fa7177e19e1700fbe1a0a3fdcf1e467a3be3a1eed9de4833044792",
+      "name": "Pandemonium Torc",
+      "typeLine": "Paua Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "27% increased Mana Regeneration Rate"
+      ],
+      "explicitMods": [
+        "+23 to Dexterity",
+        "Adds 9 to 18 Cold Damage to Attacks",
+        "+124 to Accuracy Rating",
+        "9% increased Evasion Rating",
+        "+50 to maximum Mana"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 11,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Empty-Socket.png?v=3671f6d79d7190b43879b830e63fc078&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "9b770af5037d1c6f26aa5f3bb454ff0cf3d37f0858d59171030ee69417f8070f",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Horror Gyre",
+      "typeLine": "Unset Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Has 1 Socket"
+      ],
+      "explicitMods": [
+        "+240 to Accuracy Rating",
+        "15% increased Global Accuracy Rating",
+        "+42 to maximum Energy Shield",
+        "53% increased Mana Regeneration Rate",
+        "10% increased Light Radius"
+      ],
+      "frameType": 2,
+      "x": 3,
+      "y": 6,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet1.png?v=c2401398cda6eebb43b7f7da63caa331&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "5917064486da5a5fa23bb3c0daed482cadd4885ff44fd91d26e02d9d3e7443a4",
+      "name": "Spirit Beads",
+      "typeLine": "Paua Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "48",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "21% increased Mana Regeneration Rate"
+      ],
+      "explicitMods": [
+        "+20% to Global Critical Strike Multiplier",
+        "+72 to maximum Life",
+        "+9% to all Elemental Resistances",
+        "+39% to Fire Resistance"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 10,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring7.png?v=0d73ed3a0f503653328f2593bda615d3&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "213f572308bef3a148fa1d9e44ee459e31faa8231a78499f6dedc60d079bb055",
+      "name": "Rift Finger",
+      "typeLine": "Ruby Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "57",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+26% to Fire Resistance"
+      ],
+      "explicitMods": [
+        "+27 to Dexterity",
+        "+97 to Evasion Rating",
+        "+11% to all Elemental Resistances",
+        "+45% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 8,
+      "y": 0,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet3.png?v=ab799e48c3d205973c8cd93ab478d20c&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "de56e90b0141823d35d2babf87e767b3b829b18bee34760dc05c1cdc4420200d",
+      "name": "Golem Clasp",
+      "typeLine": "Amber Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+28 to Strength"
+      ],
+      "explicitMods": [
+        "+40 to Dexterity",
+        "8% increased Spell Damage",
+        "+445 to Accuracy Rating",
+        "+19% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 6,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet7.png?v=ecac1e6f4574572eeef0379d955811cd&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "f238598552960097453ab7ef23adcd2be92ce6aa10345186eac16dae43e5290f",
+      "name": "Soul Beads",
+      "typeLine": "Onyx Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+10 to all Attributes"
+      ],
+      "explicitMods": [
+        "Adds 5 to 9 Physical Damage to Attacks",
+        "Adds 1 to 5 Lightning Damage to Attacks",
+        "+78 to Accuracy Rating",
+        "+15 to maximum Energy Shield",
+        "20% increased Rarity of Items found"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 5,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/TwoHandWeapons\/TwoHandAxes\/TwoHandAxe5.png?v=18ddacb7f5ce7bf55b0331e322e95043&w=2&h=4&scale=1",
+      "league": "Ritual",
+      "id": "237def4cd5307f7e56b1ed6290686faaed1d035b169b5f4a6601a79b99aea094",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 2,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Vaal Axe",
+      "identified": false,
+      "ilvl": 78,
+      "properties": [
+        {
+          "name": "Two Handed Axe",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "104-174",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.15",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "158",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "76",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "25% chance to Maim on Hit"
+      ],
+      "frameType": 2,
+      "x": 8,
+      "y": 7,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet5.png?v=574b38016f547495a51268177882d5cc&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "eec038402e1061e92bb7b292b45fde8f85bff21d7c7dd4a401678f4e3ce84bc4",
+      "name": "Brood Heart",
+      "typeLine": "Lapis Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "61",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+26 to Intelligence"
+      ],
+      "explicitMods": [
+        "+21 to Intelligence",
+        "21% increased Evasion Rating",
+        "+16 to maximum Energy Shield",
+        "+6 Life gained on Kill"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 9,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt5.png?v=5aa764352f06af8fd3231e6a52d710f5&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "9059d3503c2c13fd7d66b7d3c9a65f4494dc6cd828cf638cb19aab93fcd8295c",
+      "name": "Brood Shackle",
+      "typeLine": "Heavy Belt",
+      "identified": true,
+      "ilvl": 81,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+31 to Strength"
+      ],
+      "explicitMods": [
+        "+14 to maximum Energy Shield",
+        "+64 to maximum Life",
+        "+21% to Chaos Resistance",
+        "28% increased Stun Duration on Enemies",
+        "26% increased Stun and Block Recovery",
+        "11% increased Flask Life Recovery rate"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 3,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/TurquoiseAmulet.png?v=484a8eac4316c65308deea4efcfbb621&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "2abdfc8c90944d3f9d02c5d9259c5c3bfcd93ab80a8dfdeac0d265737b10df86",
+      "name": "Grim Torc",
+      "typeLine": "Turquoise Amulet",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+21 to Dexterity and Intelligence"
+      ],
+      "explicitMods": [
+        "+20 to all Attributes",
+        "11% increased Armour",
+        "+43 to maximum Energy Shield",
+        "+45 to maximum Life"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 0,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt4.png?v=da282d3a3d76fc0d14b882450c3ed2ae&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "16e1eeabc9ae8d10f9b23324c04057a35132f2fc84d1f25be7e41d95c10e8c78",
+      "name": "Chimeric Twine",
+      "typeLine": "Cloth Belt",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "59",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "16% increased Stun and Block Recovery"
+      ],
+      "explicitMods": [
+        "+46 to maximum Energy Shield",
+        "+44 to maximum Mana",
+        "+26% to Fire Resistance",
+        "+21% to Cold Resistance",
+        "12% increased Flask Effect Duration"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 4,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet4.png?v=cc3ec167ca9ea10dfa05b2d55b5dcf62&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "acc8d26551dbdf3866d9567dbd7c4aa1f2c0e29ca4bb0f12c45ea90a4e8d0078",
+      "name": "Kraken Medallion",
+      "typeLine": "Jade Amulet",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+30 to Dexterity"
+      ],
+      "explicitMods": [
+        "+38 to Dexterity",
+        "13% increased Global Critical Strike Chance",
+        "9% increased Armour",
+        "+2 to maximum Energy Shield",
+        "+32 to maximum Mana",
+        "+4 Life gained for each Enemy hit by your Attacks"
+      ],
+      "frameType": 2,
+      "x": 10,
+      "y": 7,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring5.png?v=d645f9adfc012c52674c94d16b4292b2&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "607fb5f17dcc2fb991196732d92c6bf01386013efbe6416c85fc638fbf6e5372",
+      "name": "Chimeric Nail",
+      "typeLine": "Topaz Ring",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+28% to Lightning Resistance"
+      ],
+      "explicitMods": [
+        "18% increased Global Accuracy Rating",
+        "+31 to maximum Mana",
+        "+19% to Lightning Resistance",
+        "0.32% of Physical Attack Damage Leeched as Life",
+        "15% increased Light Radius"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 5,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/MoonstoneRing.png?v=4715c1b82b9843bf4b12f0aad25b3f26&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "6ff7df971d4e76fa48b55b66cbe96a6ba4464ab3293874b9245709a6ee668e50",
+      "name": "Doom Whorl",
+      "typeLine": "Moonstone Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "59",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+20 to maximum Energy Shield"
+      ],
+      "explicitMods": [
+        "+48 to Strength",
+        "+3 to maximum Energy Shield",
+        "+46 to maximum Mana",
+        "+14% to all Elemental Resistances"
+      ],
+      "frameType": 2,
+      "x": 11,
+      "y": 3,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt3.png?v=a559821037f54c94dae053b90bcea363&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "40d926c4fe90a560d48d24ba1f523cbc3e808e79483dcb2fe7e5276213ef58d7",
+      "name": "Cataclysm Shackle",
+      "typeLine": "Leather Belt",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+26 to maximum Life"
+      ],
+      "explicitMods": [
+        "+8 to maximum Energy Shield",
+        "+67 to maximum Mana",
+        "+42% to Cold Resistance",
+        "+25% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring5.png?v=d645f9adfc012c52674c94d16b4292b2&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "099a28c0ada3441b10a667d754e5ea3d9617eb44bcf4b0e474415d0b8601cec0",
+      "name": "Brood Loop",
+      "typeLine": "Topaz Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "47",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+23% to Lightning Resistance"
+      ],
+      "explicitMods": [
+        "+10 to Evasion Rating",
+        "+37 to maximum Energy Shield",
+        "18% increased Mana Regeneration Rate",
+        "+14% to Cold Resistance",
+        "+26% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 3,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/AgateAmulet.png?v=616cdaa894e5fcb0684cbeab3f90c4bc&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "780534c5d0a5bbcfbfc6cd7619f8b852666c9d078f0e4f56bcdd4782e70ab16d",
+      "name": "Woe Clasp",
+      "typeLine": "Agate Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+23 to Strength and Intelligence"
+      ],
+      "explicitMods": [
+        "+4 to all Attributes",
+        "+21 to maximum Mana",
+        "+33% to Fire Resistance",
+        "+7% to Chaos Resistance"
+      ],
+      "frameType": 2,
+      "x": 10,
+      "y": 5,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring5.png?v=d645f9adfc012c52674c94d16b4292b2&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "1278dcc7ef66f34ecb4f958159f701aceec63bf6900bf12e83f9e3a32a92fbed",
+      "name": "Honour Eye",
+      "typeLine": "Topaz Ring",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+24% to Lightning Resistance"
+      ],
+      "explicitMods": [
+        "3% increased Fire Damage",
+        "+27 to maximum Life",
+        "+6% to all Elemental Resistances",
+        "+1 Mana gained on Kill",
+        "38% increased Elemental Damage with Attack Skills"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt6.png?v=c6603b23e7ea1431c247869e74262a58&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "0b36eb96710da153e4383ab90e0c6adcec0e73c4c00f48ea27143fefd197c3f2",
+      "name": "Anarchy Locket",
+      "typeLine": "Studded Belt",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "39",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "22% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "+1 to maximum Energy Shield",
+        "+16 to maximum Mana",
+        "+19% to Fire Resistance",
+        "+32% to Lightning Resistance",
+        "21% increased Stun and Block Recovery",
+        "25% increased Elemental Damage with Attack Skills"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 5,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring6.png?v=23acb19022be4c89b3260db63dd1ca05&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "89aa8fdf111dc442ad2596e5bb533803376522b30f7249ae28f8394d2376b76f",
+      "name": "Loath Loop",
+      "typeLine": "Sapphire Ring",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "44",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+23% to Cold Resistance"
+      ],
+      "explicitMods": [
+        "+34 to Dexterity",
+        "+50 to maximum Life",
+        "Regenerate 2.2 Life per second",
+        "+19 to maximum Mana",
+        "17% increased Rarity of Items found"
+      ],
+      "frameType": 2,
+      "x": 8,
+      "y": 1,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Gems\/Support\/GreenBarrageSupportGem.png?v=09b3762b667cb0e40edee585d6515b5f&w=1&h=1&scale=1",
+      "support": true,
+      "league": "Ritual",
+      "id": "f7231b40329613997a18643efcb3185df5b890fb524bd48c87633fa2b1337549",
+      "name": "",
+      "typeLine": "Barrage Support",
+      "identified": true,
+      "ilvl": 0,
+      "corrupted": true,
+      "properties": [
+        {
+          "name": "Bow, Attack, Support, Projectile",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Level",
+          "values": [
+            [
+              "1",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 5
+        },
+        {
+          "name": "Mana Multiplier",
+          "values": [
+            [
+              "150%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+10%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "additionalProperties": [
+        {
+          "name": "Experience",
+          "values": [
+            [
+              "1\/388734",
+              0
+            ]
+          ],
+          "displayMode": 2,
+          "progress": 0,
+          "type": 20
+        }
+      ],
+      "secDescrText": "Supports projectile attack skills that use bows or wands. Cannot support triggered skills, channelled skills, or skills that create Minions.",
+      "explicitMods": [
+        "Supported Skills deal 68% less Damage",
+        "Supported Skills Fire Projectiles sequentially",
+        "Supported Skills have 5% increased Attack Speed",
+        "Supported Skills fire 3 additional Projectiles",
+        "Supported Skills have 5% more Attack Time per Projectile",
+        "Supported Skills have 5% more Trap and Mine Throwing Time per Projectile",
+        "Supported Skills can only be used with Bows or Wands"
+      ],
+      "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+      "frameType": 4,
+      "x": 10,
+      "y": 11,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt5.png?v=5aa764352f06af8fd3231e6a52d710f5&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "7e86211643421e6d440d46434298a5b6c7e12608bd47c4a18e1c349960d61b86",
+      "name": "Havoc Harness",
+      "typeLine": "Heavy Belt",
+      "identified": true,
+      "ilvl": 70,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "26",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+27 to Strength"
+      ],
+      "explicitMods": [
+        "+23 to Strength",
+        "10% reduced Enemy Stun Threshold",
+        "+6 to maximum Energy Shield",
+        "+22 to maximum Life"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 6,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Gems\/Upheaval.png?v=685973091bb9c51c51c28d8bba026531&w=1&h=1&scale=1",
+      "support": false,
+      "league": "Ritual",
+      "id": "afc0b26e1928f0ac8ef790de65c56529d6ae6b4617fa0ec0fee5f40eca0e5c6e",
+      "name": "",
+      "typeLine": "Glacial Cascade",
+      "identified": true,
+      "ilvl": 0,
+      "properties": [
+        {
+          "name": "Spell, AoE, Cold, Physical",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Level",
+          "values": [
+            [
+              "1",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 5
+        },
+        {
+          "name": "Mana Cost",
+          "values": [
+            [
+              "10",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Cast Time",
+          "values": [
+            [
+              "0.60 sec",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Effectiveness of Added Damage",
+          "values": [
+            [
+              "45%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+8%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "28",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "67",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "additionalProperties": [
+        {
+          "name": "Experience",
+          "values": [
+            [
+              "1\/199345",
+              0
+            ]
+          ],
+          "displayMode": 2,
+          "progress": 0,
+          "type": 20
+        }
+      ],
+      "secDescrText": "Icicles emerge from the ground in a series of small bursts, each damaging enemies caught in the area and knocking them back in the direction of the next burst.",
+      "explicitMods": [
+        "Deals 21 to 32 Physical Damage",
+        "Knocks Enemies Back on Hit",
+        "100% of Physical Damage Converted to Cold Damage",
+        "8% increased Damage",
+        "Cannot Knockback Unique Enemies more than once per second\nFinal Burst Deals 200% more Damage\nFinal Burst has 100% more Area of Effect\nFinal Burst cannot Knockback",
+        "Causes 4 Bursts"
+      ],
+      "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+      "frameType": 4,
+      "x": 10,
+      "y": 2,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Gloves\/GlovesDexInt3.png?v=559c119664070970cfbdc8203425aa76&w=2&h=2&scale=1",
+      "league": "Ritual",
+      "id": "1f02f6e86cee1c21945e8dd19ec5d100b3c1fa47250c4626781fbf07b914c02a",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Sol Paw",
+      "typeLine": "Carnal Mitts",
+      "identified": true,
+      "ilvl": 82,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "113",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "23",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "50",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "39",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "39",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+10 to Intelligence",
+        "Adds 5 to 11 Fire Damage to Attacks",
+        "10% increased Attack Speed",
+        "25% increased Evasion and Energy Shield",
+        "+26 to maximum Mana"
+      ],
+      "frameType": 2,
+      "x": 10,
+      "y": 0,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt6.png?v=c6603b23e7ea1431c247869e74262a58&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "1af0c8e685008945b408fee5aead6a33745a8bf3aa58a2fa27b71896afa1d7e9",
+      "name": "Havoc Bind",
+      "typeLine": "Studded Belt",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "55",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "29% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "+60 to maximum Mana",
+        "+25% to Fire Resistance",
+        "32% increased Stun Duration on Enemies",
+        "13% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 9,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring7.png?v=0d73ed3a0f503653328f2593bda615d3&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "d568adebe55e9af782b03336748fcce97483ef027d0005a3bfc83a6401b8c094",
+      "name": "Soul Nail",
+      "typeLine": "Ruby Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "23",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+29% to Fire Resistance"
+      ],
+      "explicitMods": [
+        "Adds 1 to 2 Physical Damage to Attacks",
+        "Adds 1 to 14 Lightning Damage to Attacks",
+        "15% increased Global Accuracy Rating",
+        "+37 to maximum Mana",
+        "9% increased Rarity of Items found",
+        "10% increased Light Radius"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 0,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt3.png?v=a559821037f54c94dae053b90bcea363&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "c4de7380f15aefc3109fffe5dfc17287f6d346e92557dd12770382f5e1b10fcb",
+      "name": "Dire Leash",
+      "typeLine": "Leather Belt",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "63",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+28 to maximum Life"
+      ],
+      "explicitMods": [
+        "+47 to maximum Energy Shield",
+        "+3 to maximum Life",
+        "Regenerate 11.6 Life per second",
+        "+14% to Cold Resistance",
+        "27% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 8,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt1.png?v=a40ff49a65beb9e722af0f85159432f1&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "51fe53bcc049db0e678dff0636b19aad49f07a1e5ffef15c694d292b5023304e",
+      "name": "Hypnotic Shackle",
+      "typeLine": "Rustic Sash",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "66",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "15% increased Global Physical Damage"
+      ],
+      "explicitMods": [
+        "12% reduced Enemy Stun Threshold",
+        "+432 to Armour",
+        "+30 to maximum Energy Shield",
+        "+28% to Fire Resistance",
+        "19% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 3,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt3.png?v=a559821037f54c94dae053b90bcea363&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "4686f251981674aa8aac2991927fb10c1771540859c0e879dd0604cb31370388",
+      "name": "Rune Buckle",
+      "typeLine": "Leather Belt",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "48",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+40 to maximum Life"
+      ],
+      "explicitMods": [
+        "+10 to Armour",
+        "+10 to maximum Energy Shield",
+        "+57 to maximum Mana",
+        "23% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 8,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/DiamondRing.png?v=d53fabd123b7c64d59ffe8a6baf7d778&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "2dd7ef8f067fa0fb71e4fb0760066e18f0c1396710ef6d883edd796678239cd5",
+      "name": "Victory Knot",
+      "typeLine": "Diamond Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "22% increased Global Critical Strike Chance"
+      ],
+      "explicitMods": [
+        "19% increased Fire Damage",
+        "11% increased Global Accuracy Rating",
+        "+69 to maximum Life",
+        "+2 Mana gained on Kill",
+        "5% increased Light Radius"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 2,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt3.png?v=a559821037f54c94dae053b90bcea363&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "f1d5fc9d1a6a3e9e606f989c4c7573c7275a652831afa9307a7c9718f15c1e5f",
+      "name": "Gale Snare",
+      "typeLine": "Leather Belt",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "57",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+30 to maximum Life"
+      ],
+      "explicitMods": [
+        "+95 to maximum Life",
+        "+27 to maximum Mana",
+        "+43% to Cold Resistance",
+        "+13% to Lightning Resistance",
+        "+26% to Chaos Resistance"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 9,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet3.png?v=ab799e48c3d205973c8cd93ab478d20c&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "2afecac0331d0e603190644693311094b799a0ad4a2c40538aa99f42daf620ec",
+      "name": "Blight Scarab",
+      "typeLine": "Amber Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "47",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+25 to Strength"
+      ],
+      "explicitMods": [
+        "Adds 3 to 5 Physical Damage to Attacks",
+        "Adds 1 to 5 Lightning Damage to Attacks",
+        "17% increased Global Critical Strike Chance",
+        "+32 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 1,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/SapphireRuby.png?v=ff4c9f8b5c539efd2e99a46303e849f6&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "783677558edb352100ed7154201e96fab0fa910654cc813ce51c699735e29090",
+      "name": "Dusk Grasp",
+      "typeLine": "Two-Stone Ring",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "67",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+12% to Fire and Cold Resistances"
+      ],
+      "explicitMods": [
+        "5% increased Cold Damage",
+        "+45 to maximum Energy Shield",
+        "+26 to maximum Mana",
+        "12% increased Rarity of Items found",
+        "+46% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 3,
+      "y": 8,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Empty-Socket.png?v=3671f6d79d7190b43879b830e63fc078&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "061b0f92b319ca6ba45fa00e14cbc010f55aeb3984bdf1a31a07fa4256a023c6",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Loath Hold",
+      "typeLine": "Unset Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "44",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Has 1 Socket"
+      ],
+      "explicitMods": [
+        "+35 to Strength",
+        "+33 to Intelligence",
+        "+17 to maximum Mana",
+        "+25% to Cold Resistance"
+      ],
+      "frameType": 2,
+      "x": 8,
+      "y": 2,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet5.png?v=574b38016f547495a51268177882d5cc&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "9240820fe6938686f59c1f3037008a6ddf55d859a7344ef0439cf07dfe43c3f6",
+      "name": "Hate Idol",
+      "typeLine": "Lapis Amulet",
+      "identified": true,
+      "ilvl": 81,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+27 to Intelligence"
+      ],
+      "explicitMods": [
+        "+15 to Dexterity",
+        "Adds 2 to 23 Lightning Damage to Attacks",
+        "6% increased Cast Speed",
+        "+66 to maximum Life",
+        "+68 to maximum Mana"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 6,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/HelmetStrDex8.png?v=e041f1d30cb6e997023b09d2a822b7a6&w=2&h=2&scale=1",
+      "league": "Ritual",
+      "id": "cab87d8600ec24709feb844ab9e0c835d05f501a16438ae7e618c112559fb057",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Gale Brow",
+      "typeLine": "Fluted Bascinet",
+      "identified": true,
+      "ilvl": 82,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+26 to Strength",
+        "+29 to maximum Life",
+        "+9% to Fire Resistance",
+        "+45% to Cold Resistance"
+      ],
+      "frameType": 2,
+      "x": 10,
+      "y": 9,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/OneHandMaces\/OneHandMace2.png?v=a46820a7c96f601ec6412fa51e8a86cd&w=1&h=3&scale=1",
+      "league": "Ritual",
+      "id": "4f553ec8d1be2df265037d17ef2a52f7a381dd74960cd800b5ee3c69c17d4a34",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Ancestral Club",
+      "identified": false,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "One Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "48-80",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "179",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "10% reduced Enemy Stun Threshold"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 9,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt5.png?v=5aa764352f06af8fd3231e6a52d710f5&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "5df23af080cee2ba1c23765a36f9549a1cd1249f42fe1e0577d5f0eeee270d4c",
+      "name": "Nemesis Strap",
+      "typeLine": "Heavy Belt",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "48",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+25 to Strength"
+      ],
+      "explicitMods": [
+        "+271 to Armour",
+        "Regenerate 15.1 Life per second",
+        "+38% to Cold Resistance",
+        "11% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 7,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring2.png?v=ea80f60b4a8ead920044707ed6569849&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "482ff08b851af6a0b7047a8e02b5c21b54f07700aecd3b15363e8eb179472b58",
+      "name": "",
+      "typeLine": "Coral Ring",
+      "identified": false,
+      "ilvl": 79,
+      "implicitMods": [
+        "+28 to maximum Life"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 10,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet4.png?v=cc3ec167ca9ea10dfa05b2d55b5dcf62&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "ca6a0ae070203c4750ec5c14e90da25ce1d4347b752143516e91ba0d9a2f1f81",
+      "name": "Spirit Choker",
+      "typeLine": "Jade Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+28 to Dexterity"
+      ],
+      "explicitMods": [
+        "Adds 9 to 14 Physical Damage to Attacks",
+        "13% increased Global Critical Strike Chance",
+        "+12% to Global Critical Strike Multiplier",
+        "+21% to Fire Resistance"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 4,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt3.png?v=a559821037f54c94dae053b90bcea363&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "5e283d8044e7efadbd83e8c51a68857959baca2d30c39b980ebb3b990b5c52e1",
+      "name": "Phoenix Thread",
+      "typeLine": "Leather Belt",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "51",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+39 to maximum Life"
+      ],
+      "explicitMods": [
+        "+11 to maximum Energy Shield",
+        "+99 to maximum Life",
+        "+17% to Cold Resistance",
+        "13% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 11,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/CitrineAmulet.png?v=392b4ef08d8b72daaf1d0ec50d017398&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "6ba53ff52c450d45c49a6855a576c83fb1c39d133718f9654232fa675655bce5",
+      "name": "Cataclysm Noose",
+      "typeLine": "Citrine Amulet",
+      "identified": true,
+      "ilvl": 81,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "36",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+24 to Strength and Dexterity"
+      ],
+      "explicitMods": [
+        "+8 to Dexterity",
+        "Adds 3 to 7 Physical Damage to Attacks",
+        "Adds 5 to 11 Cold Damage to Attacks",
+        "+29% to Global Critical Strike Multiplier"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 2,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet2.png?v=1bb23cebd36e20ede7c0e76575215b14&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "3114dbb725826ffac7391617614fe9d77b86cedf574d8750ace1d6c11175599c",
+      "name": "Spirit Heart",
+      "typeLine": "Coral Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Regenerate 3.1 Life per second"
+      ],
+      "explicitMods": [
+        "+51 to Strength",
+        "+30 to Intelligence",
+        "Adds 1 to 28 Lightning Damage to Attacks",
+        "+18% to Global Critical Strike Multiplier"
+      ],
+      "frameType": 2,
+      "x": 10,
+      "y": 4,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/SapphireRuby.png?v=ff4c9f8b5c539efd2e99a46303e849f6&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "b8102665cb55aac2edd41ac2c8f69d7bb457452fc460e9337b81070fdcfb3537",
+      "name": "Hate Nail",
+      "typeLine": "Two-Stone Ring",
+      "identified": true,
+      "ilvl": 76,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "57",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+15% to Fire and Cold Resistances"
+      ],
+      "explicitMods": [
+        "Adds 3 to 8 Fire Damage to Attacks",
+        "+159 to Accuracy Rating",
+        "+25 to maximum Energy Shield",
+        "+9 to maximum Life",
+        "+7% to Cold Resistance",
+        "+45% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 9,
+      "y": 0,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/TopazRuby.png?v=0bd3c7197b952981eb21cb0dc278c04d&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "f822d3149b1bfa4cf41bcabdf83cf7f0749946362fd468e6180a165142df0256",
+      "name": "Phoenix Circle",
+      "typeLine": "Two-Stone Ring",
+      "identified": true,
+      "ilvl": 76,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "32",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+12% to Fire and Lightning Resistances"
+      ],
+      "explicitMods": [
+        "Adds 3 to 34 Lightning Damage to Attacks",
+        "+13% to Cold Resistance",
+        "+5% to Chaos Resistance",
+        "+14 Life gained on Kill"
+      ],
+      "frameType": 2,
+      "x": 9,
+      "y": 1,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Empty-Socket.png?v=3671f6d79d7190b43879b830e63fc078&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "a313717dff3fb24b9227f80c5dd31f2bcb840659712f25ee9ae7c013e2914f1e",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Dire Circle",
+      "typeLine": "Unset Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "57",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Has 1 Socket"
+      ],
+      "explicitMods": [
+        "7% increased Cast Speed",
+        "+20 to maximum Energy Shield",
+        "+42% to Fire Resistance",
+        "+36% to Cold Resistance"
+      ],
+      "frameType": 2,
+      "x": 3,
+      "y": 5,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/TopazSapphire.png?v=b7334698bf04b28f755467f256a3276b&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "60815405a2c06e020b4ecb921a9acdc7b52560cc1354feada57ad1f2235cb41c",
+      "name": "Behemoth Finger",
+      "typeLine": "Two-Stone Ring",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "48",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+16% to Cold and Lightning Resistances"
+      ],
+      "explicitMods": [
+        "+93 to Evasion Rating",
+        "+36% to Fire Resistance",
+        "+17% to Cold Resistance",
+        "+1 Mana gained on Kill"
+      ],
+      "frameType": 2,
+      "x": 3,
+      "y": 7,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/TwoHandWeapons\/TwoHandSwords\/TwoHandSword8.png?v=44d717ffd2668094350ae6065f0f3b62&w=2&h=4&scale=1",
+      "league": "Ritual",
+      "id": "477886318011f39436d2d9acd15df42fcb0b71e071ae03dc352ea2557936758a",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Exquisite Blade",
+      "identified": false,
+      "ilvl": 78,
+      "properties": [
+        {
+          "name": "Two Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "67-112",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.70%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.35",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "119",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "131",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+50% to Global Critical Strike Multiplier"
+      ],
+      "frameType": 2,
+      "x": 8,
+      "y": 3,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt1.png?v=a40ff49a65beb9e722af0f85159432f1&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "8f7c16f577ea6d08bf485c8dd80e660f6d41ddb24b56f8d5c3a3398da0502e9a",
+      "name": "Vengeance Buckle",
+      "typeLine": "Rustic Sash",
+      "identified": true,
+      "ilvl": 80,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "15% increased Global Physical Damage"
+      ],
+      "explicitMods": [
+        "+23 to maximum Energy Shield",
+        "+73 to maximum Life",
+        "+25 to maximum Mana",
+        "+18% to Fire Resistance",
+        "+22% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 1,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt1.png?v=a40ff49a65beb9e722af0f85159432f1&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "9f278bc321a4dd9ceec756e6800ab7e74dc2eeb798ff2f478151c7a15bdeaf39",
+      "name": "Demon Lash",
+      "typeLine": "Rustic Sash",
+      "identified": true,
+      "ilvl": 76,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "57",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "14% increased Global Physical Damage"
+      ],
+      "explicitMods": [
+        "+5 to maximum Energy Shield",
+        "Regenerate 8.4 Life per second",
+        "+42% to Fire Resistance",
+        "11% increased Flask Life Recovery rate",
+        "Reflects 1 Physical Damage to Melee Attackers"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 0,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet2.png?v=1bb23cebd36e20ede7c0e76575215b14&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "b84ce5561851c7cd7ef65a33992b011b867cb6ef4ec377c76eb9c08b5370f4c3",
+      "name": "Foe Choker",
+      "typeLine": "Coral Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "56",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Regenerate 2.5 Life per second"
+      ],
+      "explicitMods": [
+        "19% increased Armour",
+        "12% increased Evasion Rating",
+        "+15% to all Elemental Resistances",
+        "+18% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 10,
+      "y": 8,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet7.png?v=ecac1e6f4574572eeef0379d955811cd&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "4b06b137f6cffc9ebac8b3146aa0eef91f3592038a6f005cf1959b2252e3a783",
+      "name": "Carrion Heart",
+      "typeLine": "Onyx Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+15 to all Attributes"
+      ],
+      "explicitMods": [
+        "+2 to all Attributes",
+        "Adds 1 to 2 Fire Damage to Attacks",
+        "19% increased Cold Damage",
+        "+51 to maximum Life",
+        "+22 to maximum Mana"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 7,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https:\/\/web.poecdn.com\/gen\/image\/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMiIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d\/eed8ae4ad5\/Item.png",
+      "league": "Ritual",
+      "id": "d3aa5bf78ea7a7ac7eb361c49deddc851ebaa6f13b52e9c1f1cb83a6fdd916bd",
+      "name": "",
+      "typeLine": "Superior Eternal Life Flask",
+      "identified": true,
+      "ilvl": 78,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+17%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Recovers {0} Life over {1} Seconds",
+          "values": [
+            [
+              "2434",
+              1
+            ],
+            [
+              "4.0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 2,
+      "y": 3,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet5.png?v=574b38016f547495a51268177882d5cc&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "81949af8144ce37e42c97a0377b7cb404e862b675315c630dd1a3f0d4215548b",
+      "name": "Ghoul Beads",
+      "typeLine": "Lapis Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "47",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+24 to Intelligence"
+      ],
+      "explicitMods": [
+        "Regenerate 19.4 Life per second",
+        "8% increased Rarity of Items found",
+        "+33% to Lightning Resistance",
+        "26% increased Elemental Damage with Attack Skills"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 5,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Boots\/BootsStrInt3.png?v=3ca9bf635d09f26ef27ad85b922fd5e8&w=2&h=2&scale=1",
+      "league": "Ritual",
+      "id": "3e3c544e858edc4058fec9a4aee37f590695013c221ffae1ad52a171984e3b0d",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Superior Soldier Boots",
+      "identified": false,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+11%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "98",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "19",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "47",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "47",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "x": 3,
+      "y": 9,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt3.png?v=a559821037f54c94dae053b90bcea363&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "37e26d1a6ee1d42fd5df0c670a47cd732af7497e331cf374eadf81d66d0e3ecb",
+      "name": "Morbid Thread",
+      "typeLine": "Leather Belt",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+25 to maximum Life"
+      ],
+      "explicitMods": [
+        "14% reduced Enemy Stun Threshold",
+        "+46 to maximum Energy Shield",
+        "+31 to maximum Mana",
+        "+45% to Fire Resistance",
+        "23% increased Stun Duration on Enemies",
+        "40% increased Elemental Damage with Attack Skills"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 7,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/BreachRing.png?v=b033df55e6cc9cd0403d5ecd5e91d5a0&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "22b63ca7314cc984bbb445bf3a83ab920eddf4488788530e288b75c1cdb1954b",
+      "name": "Oblivion Nail",
+      "typeLine": "Breach Ring",
+      "identified": true,
+      "ilvl": 82,
+      "corrupted": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Properties are doubled while in a Breach"
+      ],
+      "explicitMods": [
+        "+9 to Dexterity",
+        "Adds 10 to 18 Cold Damage to Attacks",
+        "+30 to maximum Mana",
+        "25% increased Rarity of Items found",
+        "+9% to all Elemental Resistances"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 8,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring4.png?v=6ef89e2afcf83dc3cc86b1522597ed2b&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "a0b1dbe78f593cdd12f9ba0877e985fd87496c1bb351310e4bffd962a935a60b",
+      "name": "Phoenix Eye",
+      "typeLine": "Gold Ring",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "12% increased Rarity of Items found"
+      ],
+      "explicitMods": [
+        "+23 to Dexterity",
+        "+110 to Evasion Rating",
+        "25% increased Rarity of Items found"
+      ],
+      "craftedMods": [
+        "+1 to Minimum Frenzy Charges"
+      ],
+      "frameType": 2,
+      "x": 9,
+      "y": 2,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet7.png?v=ecac1e6f4574572eeef0379d955811cd&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "fbe3426403c83484653664628d3f024531d4aa08768ed2e357cf04eed8bd3839",
+      "name": "Pain Charm",
+      "typeLine": "Onyx Amulet",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "49",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+10 to all Attributes"
+      ],
+      "explicitMods": [
+        "+29 to Dexterity",
+        "+21 to Intelligence",
+        "19% increased Rarity of Items found",
+        "+29% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 3,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "icon": "https:\/\/web.poecdn.com\/gen\/image\/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9hcXVhbWFyaW5lIiwidyI6MSwiaCI6Miwic2NhbGUiOnRydWUsImxldmVsIjoxfV0\/6e98b8dde0\/Item.png",
+      "league": "Ritual",
+      "id": "a299dff13da9e52d336f6ed24e36e30803a1f88a4c328eb763589be253afb276",
+      "name": "",
+      "typeLine": "Superior Aquamarine Flask",
+      "identified": true,
+      "ilvl": 83,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+7%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Lasts {0} Seconds",
+          "values": [
+            [
+              "5.4",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes {0} of {1} Charges on use",
+          "values": [
+            [
+              "15",
+              0
+            ],
+            [
+              "40",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has {0} Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "20% chance to Avoid Cold Damage from Hits"
+      ],
+      "implicitMods": [
+        "Creates Chilled Ground on Use"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "frameType": 0,
+      "x": 11,
+      "y": 4,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt1.png?v=a40ff49a65beb9e722af0f85159432f1&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "8326c5af5dab411e50e6f6311ca784af30062bc24376c7a1258d5408654a26b6",
+      "name": "",
+      "typeLine": "Rustic Sash",
+      "identified": false,
+      "ilvl": 79,
+      "implicitMods": [
+        "17% increased Global Physical Damage"
+      ],
+      "frameType": 2,
+      "x": 2,
+      "y": 0,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/OneHandMaces\/OneHandMace3.png?v=0da211513b53dc8acc1a040ee18b6347&w=1&h=3&scale=1",
+      "league": "Ritual",
+      "id": "e0e9b569aea25e26c64705cb210f4afbf1b18ee2b777e1316fc23bd107a5ffee",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Tenderizer",
+      "identified": false,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "One Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "49-62",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.40",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "185",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "10% reduced Enemy Stun Threshold"
+      ],
+      "frameType": 2,
+      "x": 3,
+      "y": 1,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Gloves\/GlovesDexInt2.png?v=8301a0119606f022ec99a9723749003d&w=2&h=2&scale=1",
+      "league": "Ritual",
+      "id": "7eb04a0fd2f96e989e0ea14fa6322844d18f92844a7c5f92cf7fc0bd81a9c972",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Assassin's Mitts",
+      "identified": false,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "104",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 1,
+      "x": 5,
+      "y": 10,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/TurquoiseAmulet.png?v=484a8eac4316c65308deea4efcfbb621&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "146f1803275c231f69dd9bdc639e69a5bcdb35c316a2472ce4fd6de8220d53be",
+      "name": "Golem Collar",
+      "typeLine": "Turquoise Amulet",
+      "identified": true,
+      "ilvl": 77,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "59",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+17 to Dexterity and Intelligence"
+      ],
+      "explicitMods": [
+        "+45 to Strength",
+        "Adds 3 to 5 Physical Damage to Attacks",
+        "7% increased Lightning Damage",
+        "38% increased Global Critical Strike Chance",
+        "13% increased Armour",
+        "0.65% of Physical Attack Damage Leeched as Mana"
+      ],
+      "frameType": 2,
+      "x": 10,
+      "y": 3,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt4.png?v=da282d3a3d76fc0d14b882450c3ed2ae&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "8cbe9f76744f48819bbb16d0c9fe75dd076b445730e1a6af163c7f4db709bf4e",
+      "name": "Eagle Locket",
+      "typeLine": "Cloth Belt",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "18% increased Stun and Block Recovery"
+      ],
+      "explicitMods": [
+        "12% reduced Enemy Stun Threshold",
+        "+264 to Armour",
+        "+29 to maximum Energy Shield",
+        "+67 to maximum Life",
+        "Regenerate 2.7 Life per second"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 6,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/BreachRing.png?v=b033df55e6cc9cd0403d5ecd5e91d5a0&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "cac134d8a07f450d5e63f950eb1ba4675a6c7cd6b209013d8744047a41c845d1",
+      "name": "Rune Knot",
+      "typeLine": "Breach Ring",
+      "identified": true,
+      "ilvl": 82,
+      "corrupted": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "31",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Properties are doubled while in a Breach"
+      ],
+      "explicitMods": [
+        "+40 to maximum Mana",
+        "18% increased Rarity of Items found",
+        "+2 Life gained for each Enemy hit by your Attacks",
+        "+1 Mana gained on Kill"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 7,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/AmethystRing.png?v=e6f04837a3bb2bab63f8f06522bff392&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "baa270a7aa0876a4a06773e3ff973e85a08e73d948c09ca5c56207eb74a38985",
+      "name": "Rapture Finger",
+      "typeLine": "Amethyst Ring",
+      "identified": true,
+      "ilvl": 83,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+13% to Chaos Resistance"
+      ],
+      "explicitMods": [
+        "+55 to Strength",
+        "+31 to Dexterity",
+        "Adds 1 to 2 Physical Damage to Attacks",
+        "+5 to Evasion Rating"
+      ],
+      "frameType": 2,
+      "x": 4,
+      "y": 1,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/OneHandMaces\/OneHandMace3.png?v=0da211513b53dc8acc1a040ee18b6347&w=1&h=3&scale=1",
+      "league": "Ritual",
+      "id": "bad5fb274a2ecaef22853c6523a6fa20749272e91ffae33b41501bac22e6e4a6",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Tenderizer",
+      "identified": false,
+      "ilvl": 79,
+      "properties": [
+        {
+          "name": "One Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "49-62",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.40",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "185",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "10% reduced Enemy Stun Threshold"
+      ],
+      "frameType": 2,
+      "x": 11,
+      "y": 6,
+      "inventoryId": "Stash1",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt5.png?v=5aa764352f06af8fd3231e6a52d710f5&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "a6ad69ca393be43d7fc22c7170a70e9b887263728c7f60220f900c5a53116eb6",
+      "name": "Gloom Bond",
+      "typeLine": "Heavy Belt",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "48",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+29 to Strength"
+      ],
+      "explicitMods": [
+        "+8 to Strength",
+        "+89 to maximum Life",
+        "+59 to maximum Mana",
+        "28% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 4,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt6.png?v=c6603b23e7ea1431c247869e74262a58&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "656c2f2b669402381795f3da3759dfe3431ba75c7052145d4001c3d959a37572",
+      "name": "Domination Lash",
+      "typeLine": "Studded Belt",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "20% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "6% reduced Enemy Stun Threshold",
+        "+136 to Armour",
+        "+15 to maximum Mana",
+        "+20% to Fire Resistance"
+      ],
+      "frameType": 2,
+      "x": 5,
+      "y": 2,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/Heist\/HeistCoinCurrency.png?v=91f470e219855da2a828fd553feb30f6&w=1&h=1&scale=1",
+      "stackSize": 74,
+      "maxStackSize": 50000,
+      "league": "Ritual",
+      "id": "c639a5247560612876e307bf679b65ee52a1557b8c5442ce11272190dba8e3c5",
+      "name": "",
+      "typeLine": "Rogue's Marker",
+      "identified": true,
+      "ilvl": 0,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "74\/50000",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 32
+        }
+      ],
+      "explicitMods": [
+        "Creates a portal to the Rogue Harbour from a Town or Hideout\nUsed as Currency for services in the Rogue Harbour"
+      ],
+      "descrText": "Right click on this item while in a Town or Hideout to use it.",
+      "frameType": 5,
+      "x": 11,
+      "y": 2,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt1.png?v=a40ff49a65beb9e722af0f85159432f1&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "9e84d4b1c0f76b2c630751b85925254bb6fd0567811370665a0970e971874bab",
+      "name": "Brimstone Cord",
+      "typeLine": "Rustic Sash",
+      "identified": true,
+      "ilvl": 84,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "48",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "13% increased Global Physical Damage"
+      ],
+      "explicitMods": [
+        "+17 to Strength",
+        "+234 to Armour",
+        "+52 to maximum Life",
+        "+37% to Cold Resistance"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 5,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet4.png?v=cc3ec167ca9ea10dfa05b2d55b5dcf62&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "b4b8205c9f30dad26e283ce04eee51fbac5343c2098524543729a549e57f819d",
+      "name": "Vengeance Noose",
+      "typeLine": "Jade Amulet",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "56",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+30 to Dexterity"
+      ],
+      "explicitMods": [
+        "Adds 6 to 11 Physical Damage to Attacks",
+        "26% increased Fire Damage",
+        "Adds 8 to 16 Cold Damage to Attacks",
+        "46% increased Mana Regeneration Rate",
+        "1.13% of Physical Attack Damage Leeched as Life"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 2,
+      "inventoryId": "Stash1"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet6.png?v=bc7ee6ba515d5f34cfaf7daec1571c52&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "2751496452537ecde8cf25e8c725dee60784c9b194819e65beaa651c4520ff53",
+      "name": "Gale Scarab",
+      "typeLine": "Gold Amulet",
+      "identified": true,
+      "ilvl": 82,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "19% increased Rarity of Items found"
+      ],
+      "explicitMods": [
+        "12% increased Fire Damage",
+        "+18 to maximum Energy Shield",
+        "+50 to maximum Life",
+        "+30% to Fire Resistance",
+        "+3 Life gained for each Enemy hit by your Attacks"
+      ],
+      "frameType": 2,
+      "x": 7,
+      "y": 1,
+      "inventoryId": "Stash1"
+    }
+  ]
+}
